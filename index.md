@@ -16,7 +16,7 @@
 
 ---
 
-# 💻 Teoría de la Programación
+# 🧠📚 MATEMÁTICAS DISCRETAS
 
 ## 🗂️ Portafolio Digital de Aprendizaje
 
